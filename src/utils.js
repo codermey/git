@@ -6,3 +6,11 @@ function sum(a, b) {
 function getLocation() {
   return 'China';
 }
+
+// 获取用户信息
+function getUserInfo() {
+  return {
+    name: '<NAME>',
+    age: 25,
+  };
+}
