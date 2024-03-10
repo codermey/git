@@ -14,3 +14,8 @@ function getUserInfo() {
     age: 25,
   };
 }
+
+// 获取手机号码
+function getPhoneNumber() {
+  return '13800138000';
+}
