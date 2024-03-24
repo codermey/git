@@ -26,3 +26,5 @@ function getPhoneNumber() {
 function login() {
   console.log('login');
 }
+
+console.log('新功能开发中。。。。。');
