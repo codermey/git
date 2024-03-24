@@ -19,3 +19,10 @@ function getUserInfo() {
 function getPhoneNumber() {
   return '13800138000';
 }
+
+/**
+ * @description 登录
+ */
+function login() {
+  console.log('login');
+}
