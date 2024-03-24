@@ -28,3 +28,6 @@ function login() {
 }
 
 console.log('新功能开发中。。。。。');
+console.log('线上紧急bug修复');
+
+console.log('线上紧急bug修复 123');
