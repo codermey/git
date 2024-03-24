@@ -26,3 +26,5 @@ function getPhoneNumber() {
 function login() {
   console.log('login');
 }
+
+console.log('线上紧急bug修复');
