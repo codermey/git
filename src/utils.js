@@ -10,8 +10,8 @@ function getLocation() {
 // 获取用户信息
 function getUserInfo() {
   return {
-    name: '<NAME>',
-    age: 25,
+    name: 'name',
+    age: 18,
   };
 }
 
